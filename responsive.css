@@ -1,0 +1,28 @@
+
+
+@media only screen and (max-width: 600px) {
+    #experience{
+        margin-top: 30px;
+    }
+    .innerbox {
+        background: gray;
+        overflow: hidden;
+    }
+    .innerbox .header{
+        float: none;
+    }
+    .innerbox div.session{
+        float: none;
+        line-height: 30px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        width: 100px;
+        height: 30px;
+    }
+    
+    
+    .title{
+        line-height: 40px;
+    }
+}
+
